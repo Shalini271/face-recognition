@@ -1,0 +1,14 @@
+body{
+    background: rgb(199, 129, 199);
+    color:rgb(95, 24, 107);
+    font-family: 'Lucida Sans';
+}
+
+.heading{
+    padding: 10px;
+}
+
+#camera{
+    border: 10px dashed rgb(6, 6, 49);
+    padding-right:5px;
+}
